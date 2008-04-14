@@ -2,3 +2,11 @@
 	path = vendor\\rails
 [submodule "vendor\rails"]
 	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/rails/.git
+[submodule "vendor\plugins\rspec"]
+	path = vendor\\plugins\\rspec
+[submodule "vendor\plugins\rspec"]
+	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec/.git
+[submodule "vendor\plugins\rspec-rails"]
+	path = vendor\\plugins\\rspec-rails
+[submodule "vendor\plugins\rspec-rails"]
+	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec-rails/.git
