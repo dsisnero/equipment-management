@@ -1,0 +1,6 @@
+<% for attribute in attributes -%>
+  <p>
+    <%%= form.label :<%= attribute.name %> %>
+    <%%= form.<%= attribute.field_type %> :<%= attribute.name %> %>
+  </p>
+<% end -%>
