@@ -10,3 +10,6 @@
 	path = vendor\\plugins\\rspec-rails
 [submodule "vendor\plugins\rspec-rails"]
 	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec-rails/.git
+[submodule "vendor/plugins/faa_plugin"]
+	path = vendor/plugins/faa_plugin
+	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/rails/plugins/faa_plugin/.git
