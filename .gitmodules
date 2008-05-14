@@ -13,3 +13,6 @@
 [submodule "vendor/plugins/faa_plugin"]
 	path = vendor/plugins/faa_plugin
 	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/rails/plugins/faa_plugin/.git
+[submodule "vendor/plugins/restful_authentication"]
+	path = vendor/plugins/restful_authentication
+	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/restful_authentication/.git
