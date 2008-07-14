@@ -1,0 +1,38 @@
+# == Schema Information
+# Schema version: 20080611232344
+#
+# Table name: sites
+#
+#  id          :integer         not null, primary key
+#  name        :string(255)
+#  latitude    :string(255)
+#  longitude   :string(255)
+#  elevation   :string(255)
+#  locid       :string(255)
+#  factype     :string(255)
+#  description :string(255)
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+
+one:
+
+  latitude: MyString
+
+  longitude: MyString
+
+  elevation: MyString
+
+
+two:
+
+  latitude: MyString
+
+  longitude: MyString
+
+  elevation: MyString
+
+
