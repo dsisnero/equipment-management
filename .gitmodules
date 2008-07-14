@@ -13,3 +13,6 @@
 [submodule "vendor/plugins/restful_authentication"]
         path = vendor/plugins/restful_authentication
         url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/restful_authentication/.git
+[submodule "vendor/plugins/rspec-rails"]
+	path = vendor/plugins/rspec-rails
+	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec-rails/.git
