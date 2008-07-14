@@ -1,0 +1,35 @@
+# == Schema Information
+# Schema version: 20080611232344
+#
+# Table name: buildings
+#
+#  id          :integer         not null, primary key
+#  site_id     :integer
+#  height      :decimal(, )
+#  name        :string(255)
+#  description :text
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+
+one:
+
+  height: 9.99
+
+  name: MyString
+
+  description: MyText
+
+
+two:
+
+  height: 9.99
+
+  name: MyString
+
+  description: MyText
+
+
