@@ -1,18 +1,15 @@
 [submodule "vendor\rails"]
-	path = vendor\\rails
-[submodule "vendor\rails"]
-	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/rails/.git
+        path = vendor/rails
+        url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/rails/.git
 [submodule "vendor\plugins\rspec"]
-	path = vendor\\plugins\\rspec
-[submodule "vendor\plugins\rspec"]
-	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec/.git
+        path = vendor/plugins/rspec
+        url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec/.git
 [submodule "vendor\plugins\rspec-rails"]
-	path = vendor\\plugins\\rspec-rails
-[submodule "vendor\plugins\rspec-rails"]
-	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec-rails/.git
+        path = vendor/plugins/rspec-rails
+        url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/rspec-rails/.git
 [submodule "vendor/plugins/faa_plugin"]
-	path = vendor/plugins/faa_plugin
-	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/rails/plugins/faa_plugin/.git
+        path = vendor/plugins/faa_plugin
+        url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/rails/plugins/faa_plugin/.git
 [submodule "vendor/plugins/restful_authentication"]
-	path = vendor/plugins/restful_authentication
-	url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/restful_authentication/.git
+        path = vendor/plugins/restful_authentication
+        url = c:/Documents and Settings/dominic e sisneros/My Documents/programming/repos/plugins/restful_authentication/.git
